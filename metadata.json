@@ -1,0 +1,6 @@
+{
+  "name": "College Works & Updates",
+  "description": "Comprehensive college management portal for administrators, faculty, and students with course management, timetables, homework assignments, and discussions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
